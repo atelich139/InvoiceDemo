@@ -1,6 +1,6 @@
 # Invoice Demo
 This is a short demo of the invoicing program I made for the first company I worked for. <br/> 
-*Note: screen recordings took away the smoothness of how the application actually behaves IRL 
+*Note: screen recordings took away the smoothness of how the application actually behaves IRL*
 
 ## Adding
 - Create a new invoice by pressing the '+' button. 
