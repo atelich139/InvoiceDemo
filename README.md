@@ -5,7 +5,9 @@ This is a short demo of the invoicing program I made for the first company I wor
 
 ## Deleting an Invoice
 
+## Filtering Invoices
+
 ## Searching for an Invoice
 
-## Filtering Invoices
+
 
