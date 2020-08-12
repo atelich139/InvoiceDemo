@@ -25,9 +25,10 @@ This is a short demo of the invoicing program I made for the first company I wor
 - The box goes away nicely.
 
 ## **Things that were added after I left...**
-- The 'attachment' button inside the invoice card. It's sloppy and shouldn't be above the delete button; it should be a similar looking icon next to it.
-- The 'Reports' function that's so bad I'm not even going to bother showing.
-- The word 'description' inside the invoice card is redundant; the description of the invoice was meant to feel like description.
+- 'attachment' button inside the invoice card. It's sloppy and shouldn't be above the delete button; it should be a similar looking icon next to it.
+- 'Reports' feature that's so bad I'm not even going to bother showing.
+- 'description:' inside the invoice card is redundant; the description of the invoice was meant to feel like description.
+- I started working on the timeline feature inside the invoice cards, but it wasn't complete before I left and they didn't go the direction I was hoping with it. 
 
 
 
