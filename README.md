@@ -24,10 +24,6 @@ This is a short demo of the invoicing program I made for the first company I wor
 - I made sure it's still zippy when there are ~20,000 invoices.
 - The box goes away nicely.
 
-## Settings
-- Buttons for settins slide up nicely.
-- Simple to navigate.
-
 ## **Things that were added after I left...**
 - The 'attachment' button inside the invoice card. It's sloppy and shouldn't be above the delete button; it should be a similar looking icon next to it.
 - The 'Reports' function that's so bad I'm not even going to bother showing.
