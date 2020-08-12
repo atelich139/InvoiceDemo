@@ -13,7 +13,8 @@ This is a short demo of the invoicing program I made for the first company I wor
 
 ## Filtering 
 - The filter button is 'intelligent' as it only allows filtering of the type of invoices that are in the user's list.
-- Supports a quick action to clear the filter. If a user presses, holds, and drags off of the button; the filter is cleared.
+- If a user presses, holds, and drags off of the button; the filter is cleared. (I wanted to give a visual feedback to this, but didn't have time)
+- Search function works while list is filtered. If the filter is cleared while something is being searched for, it keeps search in place in unfiltered list.
 
 ## Loging In
 
