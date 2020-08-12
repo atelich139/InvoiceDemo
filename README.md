@@ -12,6 +12,8 @@ This is a short demo of the invoicing program I made for the first company I wor
 - Invoice fades into nothing as the user holds down the button to give another level of feedback.
 
 ## Filtering 
+- The filter button is 'intelligent' as it only allows filtering of the type of invoices that are in the user's list.
+- Supports a quick action to clear the filter. If a user presses, holds, and drags off of the button; the filter is cleared.
 
 ## Loging In
 
