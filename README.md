@@ -28,7 +28,10 @@ This is a short demo of the invoicing program I made for the first company I wor
 - Buttons for settins slide up nicely.
 - Simple to navigate.
 
-## **Things that were added after I left...
+## **Things that were added after I left...**
+- The 'attachment' button inside the invoice card. It's sloppy and shouldn't be above the delete button; it should be a similar looking icon next to it.
+- The 'Reports' function that's so bad I'm not even going to bother showing.
+- The word 'description' inside the invoice card is redundant; the description of the invoice was meant to feel like description.
 
 
 
