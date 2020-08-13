@@ -1,6 +1,6 @@
 # Invoice Demo
 This is a short demo of the invoicing program I made for the first company I worked for. <br/> 
-It took me approximately 2.5 months to complete this product.<br/>
+2.5 months to get first production-ready version.<br/>
 *Note: screen recordings took away the smoothness of how the application actually behaves IRL*
 
 ## Adding
