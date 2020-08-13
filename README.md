@@ -1,16 +1,17 @@
 # Invoice Demo
-This is a short demo of the invoicing program I made for the first company I worked for. <br/> 
+This is a short demo of the invoicing program I made for the first company I worked for. <br/>
+I designed the whole user interface; from the layout, to the feel, to the icons. <br/>
 2.5 months to get first production-ready version.<br/>
 *Note: screen recordings took away the smoothness of how the application actually behaves IRL*
 
 ## Adding
 - Create a new invoice by pressing the '+' button. 
-- The fields on the form tabbed through. 
+- The fields on the form react well to being tabbed through. 
 - A user can quickly close the form by pressing 'Esc' or clicking anywhere outside of the form. 
 
 ## Deleting
-- I made a delete button removes the need for a confirmation screen.
-- Animation is done by mathematically maniuplating an SVG and is tied to directly to the press duration.
+- I made a delete button that removes the need for a confirmation screen.
+- Animation is done by mathematically maniuplating an SVG and is tied directly to the press duration.
 - Invoice fades into nothing as the user holds down the button to give another level of feedback.
 
 ## Filtering 
